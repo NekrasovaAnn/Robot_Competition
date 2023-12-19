@@ -1,0 +1,3 @@
+[console_scripts]
+move = experimental_robot_pack.my_robot_move:main
+
