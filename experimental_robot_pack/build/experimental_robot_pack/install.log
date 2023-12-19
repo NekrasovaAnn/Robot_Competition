@@ -6,6 +6,7 @@
 /home/nekr/ros2_ws/src/experimental_robot_pack/install/experimental_robot_pack/share/experimental_robot_pack/package.xml
 /home/nekr/ros2_ws/src/experimental_robot_pack/install/experimental_robot_pack/share/experimental_robot_pack/sign/right.jpg
 /home/nekr/ros2_ws/src/experimental_robot_pack/install/experimental_robot_pack/share/experimental_robot_pack/sign/left.jpg
+/home/nekr/ros2_ws/src/experimental_robot_pack/install/experimental_robot_pack/share/experimental_robot_pack/launch/Name.launch.py
 /home/nekr/ros2_ws/src/experimental_robot_pack/install/experimental_robot_pack/lib/python3.10/site-packages/experimental_robot_pack-0.0.0-py3.10.egg-info/zip-safe
 /home/nekr/ros2_ws/src/experimental_robot_pack/install/experimental_robot_pack/lib/python3.10/site-packages/experimental_robot_pack-0.0.0-py3.10.egg-info/entry_points.txt
 /home/nekr/ros2_ws/src/experimental_robot_pack/install/experimental_robot_pack/lib/python3.10/site-packages/experimental_robot_pack-0.0.0-py3.10.egg-info/dependency_links.txt

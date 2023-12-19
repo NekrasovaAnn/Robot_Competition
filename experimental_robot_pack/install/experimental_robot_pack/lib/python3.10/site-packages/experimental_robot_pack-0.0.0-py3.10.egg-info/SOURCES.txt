@@ -10,6 +10,7 @@ build/experimental_robot_pack/experimental_robot_pack.egg-info/top_level.txt
 build/experimental_robot_pack/experimental_robot_pack.egg-info/zip-safe
 experimental_robot_pack/__init__.py
 experimental_robot_pack/my_robot_move.py
+launch/Name.launch.py
 resource/experimental_robot_pack
 sign/left.jpg
 sign/right.jpg
