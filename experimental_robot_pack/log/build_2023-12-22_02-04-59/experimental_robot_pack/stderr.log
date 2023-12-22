@@ -1,0 +1,7 @@
+/usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+  File "/home/nekr/ros2_ws/src/experimental_robot_pack/install/experimental_robot_pack/lib/python3.10/site-packages/experimental_robot_pack/my_robot_move.py", line 171
+    def detect_sign(self, sign, area=[50, 260, 320, 520], distances=0.69, threshold=7)#size_area=[50, 50], threshold=0.7):
+                                                                                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+SyntaxError: expected ':'
+

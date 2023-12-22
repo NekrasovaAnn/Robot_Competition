@@ -1,0 +1,26 @@
+[1.026s] Invoking command in '/home/nekr/ros2_ws/src/experimental_robot_pack': PYTHONPATH=/home/nekr/ros2_ws/src/experimental_robot_pack/build/experimental_robot_pack/prefix_override:/home/nekr/ros2_ws/src/experimental_robot_pack/install/experimental_robot_pack/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/experimental_robot_pack build --build-base /home/nekr/ros2_ws/src/experimental_robot_pack/build/experimental_robot_pack/build install --record /home/nekr/ros2_ws/src/experimental_robot_pack/build/experimental_robot_pack/install.log --single-version-externally-managed
+[1.306s] running egg_info
+[1.308s] writing build/experimental_robot_pack/experimental_robot_pack.egg-info/PKG-INFO
+[1.308s] writing dependency_links to build/experimental_robot_pack/experimental_robot_pack.egg-info/dependency_links.txt
+[1.309s] writing entry points to build/experimental_robot_pack/experimental_robot_pack.egg-info/entry_points.txt
+[1.309s] writing requirements to build/experimental_robot_pack/experimental_robot_pack.egg-info/requires.txt
+[1.309s] writing top-level names to build/experimental_robot_pack/experimental_robot_pack.egg-info/top_level.txt
+[1.312s] reading manifest file 'build/experimental_robot_pack/experimental_robot_pack.egg-info/SOURCES.txt'
+[1.314s] writing manifest file 'build/experimental_robot_pack/experimental_robot_pack.egg-info/SOURCES.txt'
+[1.314s] running build
+[1.314s] running build_py
+[1.315s] copying experimental_robot_pack/my_robot_move.py -> /home/nekr/ros2_ws/src/experimental_robot_pack/build/experimental_robot_pack/build/lib/experimental_robot_pack
+[1.315s] running install
+[1.315s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.315s]   warnings.warn(
+[1.316s] running install_lib
+[1.318s] copying /home/nekr/ros2_ws/src/experimental_robot_pack/build/experimental_robot_pack/build/lib/experimental_robot_pack/my_robot_move.py -> /home/nekr/ros2_ws/src/experimental_robot_pack/install/experimental_robot_pack/lib/python3.10/site-packages/experimental_robot_pack
+[1.319s] byte-compiling /home/nekr/ros2_ws/src/experimental_robot_pack/install/experimental_robot_pack/lib/python3.10/site-packages/experimental_robot_pack/my_robot_move.py to my_robot_move.cpython-310.pyc
+[1.322s] running install_data
+[1.323s] running install_egg_info
+[1.326s] removing '/home/nekr/ros2_ws/src/experimental_robot_pack/install/experimental_robot_pack/lib/python3.10/site-packages/experimental_robot_pack-0.0.0-py3.10.egg-info' (and everything under it)
+[1.327s] Copying build/experimental_robot_pack/experimental_robot_pack.egg-info to /home/nekr/ros2_ws/src/experimental_robot_pack/install/experimental_robot_pack/lib/python3.10/site-packages/experimental_robot_pack-0.0.0-py3.10.egg-info
+[1.327s] running install_scripts
+[1.359s] Installing move script to /home/nekr/ros2_ws/src/experimental_robot_pack/install/experimental_robot_pack/lib/experimental_robot_pack
+[1.360s] writing list of installed files to '/home/nekr/ros2_ws/src/experimental_robot_pack/build/experimental_robot_pack/install.log'
+[1.411s] Invoked command in '/home/nekr/ros2_ws/src/experimental_robot_pack' returned '0': PYTHONPATH=/home/nekr/ros2_ws/src/experimental_robot_pack/build/experimental_robot_pack/prefix_override:/home/nekr/ros2_ws/src/experimental_robot_pack/install/experimental_robot_pack/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/experimental_robot_pack build --build-base /home/nekr/ros2_ws/src/experimental_robot_pack/build/experimental_robot_pack/build install --record /home/nekr/ros2_ws/src/experimental_robot_pack/build/experimental_robot_pack/install.log --single-version-externally-managed
